@@ -1,0 +1,13 @@
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.exe
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.deps.json
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.runtimeconfig.json
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.runtimeconfig.dev.json
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.dll
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\bin\Debug\netcoreapp3.1\KonverterTemperature.pdb
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.dll
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.pdb
+C:\Users\Dusan\source\repos\Konverter Temperature\KonverterTemperature\obj\Debug\netcoreapp3.1\KonverterTemperature.genruntimeconfig.cache
