@@ -1,0 +1,13 @@
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Dusan\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
