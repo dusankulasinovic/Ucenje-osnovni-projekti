@@ -1,0 +1,3 @@
+C:\Users\Dusan\source\repos\Name Generator\Name Generator\obj\Release\netcoreapp3.1\Name Generator.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\Name Generator\Name Generator\obj\Release\netcoreapp3.1\Name Generator.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\Name Generator\Name Generator\obj\Release\netcoreapp3.1\Name Generator.csproj.CoreCompileInputs.cache
