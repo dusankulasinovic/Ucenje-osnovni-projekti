@@ -1,0 +1,13 @@
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.exe
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.deps.json
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.runtimeconfig.json
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.runtimeconfig.dev.json
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.dll
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\bin\Debug\netcoreapp3.1\ViseNizeGlavaPismo.pdb
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.dll
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.pdb
+C:\Users\Dusan\source\repos\ViseNizeGlavaPismo\ViseNizeGlavaPismo\obj\Debug\netcoreapp3.1\ViseNizeGlavaPismo.genruntimeconfig.cache
