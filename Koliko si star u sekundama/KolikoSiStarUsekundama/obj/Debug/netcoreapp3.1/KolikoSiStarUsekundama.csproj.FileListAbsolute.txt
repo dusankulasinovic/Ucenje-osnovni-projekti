@@ -1,0 +1,13 @@
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.exe
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.deps.json
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.runtimeconfig.json
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.runtimeconfig.dev.json
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.dll
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\bin\Debug\netcoreapp3.1\KolikoSiStarUsekundama.pdb
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.dll
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.pdb
+C:\Users\Dusan\source\repos\Koliko si star u sekundama\KolikoSiStarUsekundama\obj\Debug\netcoreapp3.1\KolikoSiStarUsekundama.genruntimeconfig.cache
